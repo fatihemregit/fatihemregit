@@ -30,6 +30,49 @@
     <th>Language or technology</th>
     <th>Project Link in github</th>
   </tr>
-
+  <tr>
+     <td>Arduino</td>
+     <td>https://github.com/fatihemregit/mikroDenetleyicilerOdevi</td>
+  </tr>
+  <tr>
+    <td>Bootsrap</td>
+    <td>https://github.com/fatihemregit/fatihemrekilinc.xyz</td>
+  </tr>
+  <tr>
+    <td>C#</td>
+    <td>https://github.com/fatihemregit/RollCallCounter</td>
+  </tr>
+  <tr>
+    <td>dotnet</td>
+    <td>https://github.com/fatihemregit/cvSitesiOdevi</td>
+  </tr>
+  <tr>
+    <td>Flutter</td>
+    <td>https://github.com/fatihemregit/mobil_dis_otomasyonu</td>
+  </tr>
+  <tr>
+    <td>Html</td>
+    <td>https://github.com/fatihemregit/fatihemrekilinc.xyz</td>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td>https://github.com/fatihemregit/Java_Kodlama_ioDevs</td>
+  </tr>
+  <tr>
+    <td>SqlServer</td>
+    <td>https://github.com/fatihemregit/CoreAndFoodProject</td>
+  </tr>
+  <tr>
+    <td>PostgreSql</td>
+    <td>https://github.com/fatihemregit/backend_api</td>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>https://github.com/fatihemregit/zil_programi</td>
+  </tr>
+  <tr>
+    <td>Sqlite</td>
+    <td>https://github.com/fatihemregit/zil_programi</td>
+  </tr>
   
 </table>
