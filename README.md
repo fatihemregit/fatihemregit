@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatih Emre KILINÇ</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
+<h3 align="center">My Cv is <a href="https://github.com/fatihemregit/fatihemregit/blob/master/Fatih_Emre_Kilinc_Resume.pdf">here</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihemregit&label=Profile%20views&color=009dff&style=flat" alt="fatihemregit" /> </p>
 
